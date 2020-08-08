@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "link": "/about",
+    "englishTitle": "About Me",
+    "chineseTitle": "關於我"
+  },
+  {
+    "id": 2,
+    "link": "/work",
+    "englishTitle": "My Work",
+    "chineseTitle": "我的作品"
+  },
+  {
+    "id": 3,
+    "link": "/contact",
+    "englishTitle": "How To Reach Me",
+    "chineseTitle": "聯繫我"
+  }
+]

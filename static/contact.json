@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "englishFirstName": "Contact",
+    "englishLastName": "Me",
+    "englishSubTitle": "This is how you can reach me...",
+    "engEmail": "johndoe@test.com",
+    "engPhone": "(555) 555-5555",
+    "engAddress": "50 Main st, Boston MA 02101",
+    "chineseFirstName": "聯絡",
+    "chineseLastName": "我",
+    "chineseSubTitle": "我的聯絡方式...",
+    "chineseEmail": "johndoe@test.com",
+    "chinesePhone": "(555) 555-5555",
+    "chineseAddress": "凱達格蘭大道一段一號一樓"
+  }
+]
